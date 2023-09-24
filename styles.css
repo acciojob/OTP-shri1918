@@ -22,7 +22,7 @@
 	text-align:center;justify-content:center;
         }
 
-        .code {
+        .code-1, .code-2, .code-3,.code-4, .code-5, {
             width: 2em;
             height: 2em;
             font-size: 1.5em;
