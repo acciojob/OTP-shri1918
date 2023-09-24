@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+.main{
+	justify-content:center;
+	text-align:center;
+	border:1px solid black
+}
+#verification_subtext{
+	font-size:10px;
+}
+.last{
+	width:50%;
+	margin-left:25%;
+	text-align:center;
+	justify-content:center;
+}
+.last_p{
+	background:lightgray;
+	font-size:10px;
+}
+.code-container {
+            display: flex;
+	text-align:center;justify-content:center;
+        }
+
+        .code {
+            width: 2em;
+            height: 2em;
+            font-size: 1.5em;
+            text-align: center;
+            margin: 0 0.2em;
+        }
